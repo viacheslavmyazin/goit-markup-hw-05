@@ -139,7 +139,7 @@ color: var(--headlines-text-color);
         position: absolute;
         left: 0;
         bottom: -32px;
-        display: flex;
+        display: block;
     
     }
 
