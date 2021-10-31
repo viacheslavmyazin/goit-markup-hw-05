@@ -138,7 +138,8 @@ color: var(--headlines-text-color);
         border-radius: 2px;
         position: absolute;
         left: 0;
-        top: 44px;
+        bottom: -32px;
+        display: flex;
     
     }
 
